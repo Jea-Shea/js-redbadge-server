@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres", 
+    "password": "1234",  
+    "database": "pizzas", 
+    "host": "127.0.0.1",
+    "port": "3000", 
+    "dialect": "postgres" 
+  },
+  "test": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "pizzas",
+    "host": "127.0.0.1",
+    "port": "3000",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "pizzas",
+    "host": "127.0.0.1",
+    "port": "3000",
+    "dialect": "postgres"
+  }
+}
